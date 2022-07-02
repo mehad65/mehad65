@@ -7,17 +7,18 @@ I am a software developer at asp.net Core platform. Expert in backend developmen
 
 
 Skills: 
-Programming: DotNET 6, C#, ASP.NET CORE, ASP.NET WEB API, ASP.NET Core MVC, Web Service, Windows Service, ADO.NET, LINQ Scripting Language: Typescript, jQuery,Ajax, HTML 5 Scripting Framework Tools: DataTables,AngularJS 
-Design Tools: CSS, CSS 3, Bootstrap 5, Sass 
-Database: SQL Server,Oracle Database, MySQL,ORM (Entity Framework (Code First)), and LINQ for object queries, AWS Dynamo DB 
-Reporting Tools: Crystal Reports, .NET RDLC IoC Container: Microsoft Unity, Autofac 
-Logger: Serilog 
-Test Driven Development: NUnit,MockTest,Shouldly  
-Methodologies: Agile Software Development 
-Version Control System: GitHub (Open Source, Tortoise Git) 
-CMS: WordPress 
-Others: Design Patterns, DDD, Data Structure, Algorithm, Agile Development Project Management System 
-IDE: Visual Studio, Visual Studio Code Cloud Tools: Docker,AWS
+Programming: DotNET 6, C#, ASP.NET CORE, ASP.NET WEB API, ASP.NET Core MVC, Web Service, Windows Service, ADO.NET, LINQ Scripting <br/>
+Language: Typescript, jQuery,Ajax, HTML 5 Scripting Framework Tools: DataTables,AngularJS <br/>
+Design Tools: CSS, CSS 3, Bootstrap 5, Sass <br/>
+Database: SQL Server,Oracle Database, MySQL,ORM (Entity Framework (Code First)), and LINQ for object queries, AWS Dynamo DB <br/>
+Reporting Tools: Crystal Reports, .NET RDLC IoC Container: Microsoft Unity, Autofac <br/>
+Logger: Serilog <br/>
+Test Driven Development: NUnit,MockTest,Shouldly  <br/>
+Methodologies: Agile Software Development <br/>
+Version Control System: GitHub (Open Source, Tortoise Git) <br/>
+CMS: WordPress <br/>
+Others: Design Patterns, DDD, Data Structure, Algorithm, Agile Development Project Management System <br/>
+IDE: Visual Studio, Visual Studio Code Cloud Tools: Docker,AWS<br/>
 
 - 🔭 I’m currently working on DotNet Core Mvc 
 - 🌱 I’m currently learning Microservices & Devops 
