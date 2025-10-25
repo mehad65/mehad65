@@ -1,12 +1,12 @@
 # 🌟 Assalamu Alaikum! I'm Mihadul Islam 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehad65/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mihad.site)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehad65)
 
 ## 🚀 About Me
 
-**Passionate Learner | .NET/AI Engineer | Full-Stack Developer**
+**CEO & Founder | .NET Engineer | Full-Stack Developer**
 
 I am a passionate software engineer specializing in **.NET Technologies** with a strong focus on backend development, database design, and modern web applications. As a curious, experienced, and practical learner, I thrive on solving challenging problems and learning cutting-edge technologies.
 
@@ -98,8 +98,8 @@ I am a passionate software engineer specializing in **.NET Technologies** with a
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehad65&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehad65&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -131,7 +131,7 @@ I am a passionate software engineer specializing in **.NET Technologies** with a
 
 I'm always open to discussing new opportunities, collaborating on interesting projects, or sharing knowledge about .NET technologies and software engineering.
 
-- 💼 **Role:** CEO & Founder
+- 💼 **Role:** Senior Software Engineer
 - 🎯 **Specialization:** .NET Engineer with expertise in AI, automation, and cloud technologies
 - 🌱 **Currently Learning:** Latest .NET features, AI/ML integration, and cloud-native architectures
 - 💬 **Ask me about:** .NET Core, Software Architecture, Database Design, Cloud Solutions
@@ -140,7 +140,7 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mehad65&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 *"Passionate about creating robust, scalable solutions that make a difference."*
