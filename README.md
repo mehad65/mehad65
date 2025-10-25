@@ -1,32 +1,146 @@
- <article class="markdown-body entry-content container-lg f5" itemprop="text"><h2 dir="auto"><a id="user-content-hi-there-im-riad-hossain---aka-riadhossain0x" class="anchor" aria-hidden="true" href="#hi-there-im-mihadul-islam-mehad65"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
- </a>Assalamu Alaikum - This is Mihadul Islam<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h2>
-<h3 dir="auto"><a id="user-content-a-undergraduate-computer-science-student-net-developer-and-iterate-learner" class="anchor" aria-hidden="true" href="#a-undergraduate-computer-science-student-net-developer-and-iterate-learner"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I am a software developer at asp.net Core platform. Expert in backend development with strong focus on database design and frontend development.</h3>
+# 🌟 Assalamu Alaikum! I'm Mihadul Islam 👋
 
-<h2 dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>What I know :</h2>
-<ul dir="auto">
-<li>
-<p dir="auto">Programming Language:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7a65518f20026263e3bfb263e59992217399a99e56fe642f63823a48328d697d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d637368617270267374796c653d666c6174266c6f676f3d637368617270266c6f676f436f6c6f723d66666464353426636f6c6f723d333637304130"><img src="https://camo.githubusercontent.com/7a65518f20026263e3bfb263e59992217399a99e56fe642f63823a48328d697d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d637368617270267374796c653d666c6174266c6f676f3d637368617270266c6f676f436f6c6f723d66666464353426636f6c6f723d333637304130" alt="C#" data-canonical-src="https://img.shields.io/static/v1?label=&amp;message=csharp&amp;style=flat&amp;logo=csharp&amp;logoColor=ffdd54&amp;color=3670A0" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cbb8e4880d4bfab6d65ca222c95492345ecc8020a9c179729f9c35ddd789a632/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img src="https://camo.githubusercontent.com/cbb8e4880d4bfab6d65ca222c95492345ecc8020a9c179729f9c35ddd789a632/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fe663472ec48a9442530463205d7f6694cf4ffeb87a3c977c7fbd13147351b7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333737374242342e7376673f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/fe663472ec48a9442530463205d7f6694cf4ffeb87a3c977c7fbd13147351b7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333737374242342e7376673f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/typescript-%23777BB4.svg?style=flat&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto">Frameworks, Platforms and Libraries:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/75c3d56c44efea18da3ad3f6eab3d047955e61a55743ffc5325b70552d233282/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f72652d3030353537313f7374796c653d666c6174266c6f676f3d646f746e6574"><img src="https://camo.githubusercontent.com/75c3d56c44efea18da3ad3f6eab3d047955e61a55743ffc5325b70552d233282/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f72652d3030353537313f7374796c653d666c6174266c6f676f3d646f746e6574" alt=".NETCore" data-canonical-src="https://img.shields.io/badge/core-005571?style=flat&amp;logo=dotnet" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8412e5b165ac1a4a1233508253f9c58779376bbf2f1c61812c2138071527692/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6672616d65776f726b2d32333433383533442e7376673f7374796c653d666c6174266c6f676f3d646f746e6574"><img src="https://camo.githubusercontent.com/e8412e5b165ac1a4a1233508253f9c58779376bbf2f1c61812c2138071527692/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6672616d65776f726b2d32333433383533442e7376673f7374796c653d666c6174266c6f676f3d646f746e6574" alt=".NETFramework" data-canonical-src="https://img.shields.io/badge/framework-2343853D.svg?style=flat&amp;logo=dotnet" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c47823198ce7080a7fbe5fb78723d8d5325b01083229c8ee53495fe92c20ee99/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e67756c61722d2532333030302e7376673f7374796c653d666c6174266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c47823198ce7080a7fbe5fb78723d8d5325b01083229c8ee53495fe92c20ee99/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e67756c61722d2532333030302e7376673f7374796c653d666c6174266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465" alt="Angular" data-canonical-src="https://img.shields.io/badge/angular-%23000.svg?style=flat&amp;logo=angular&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4ab21c0715b26efe7e15f9ac074fcdfa71db425e919b2169289112711b076390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656e746974795f6672616d776f726b2d2532333433383533442e7376673f7374796c653d666c6174266c6f676f3d656e746974796672616d65776f726b266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/4ab21c0715b26efe7e15f9ac074fcdfa71db425e919b2169289112711b076390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656e746974795f6672616d776f726b2d2532333433383533442e7376673f7374796c653d666c6174266c6f676f3d656e746974796672616d65776f726b266c6f676f436f6c6f723d7768697465" alt="EntityFramework" data-canonical-src="https://img.shields.io/badge/entity_framwork-%2343853D.svg?style=flat&amp;logo=entityframework&amp;logoColor=white" style="max-width: 100%;"></a>  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/14ace1b9a7f6987878b5d984291ec3705cd683a83839208ee152d556a60ed6ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f2e6e65742d2532334646324432302e7376673f7374796c653d666c6174266c6f676f3d61646f2e6e6574266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/14ace1b9a7f6987878b5d984291ec3705cd683a83839208ee152d556a60ed6ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f2e6e65742d2532334646324432302e7376673f7374796c653d666c6174266c6f676f3d61646f2e6e6574266c6f676f436f6c6f723d7768697465" alt="Ado.Net" data-canonical-src="https://img.shields.io/badge/ado.net-%23FF2D20.svg?style=flat&amp;logo=ado.net&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto">Database:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5daf68ec55ff4781d372adfcd8160e286b44a287a11014cc754c55f648e0b6b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7373716c2d2532333132313031312e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/5daf68ec55ff4781d372adfcd8160e286b44a287a11014cc754c55f648e0b6b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7373716c2d2532333132313031312e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MsSQL" data-canonical-src="https://img.shields.io/badge/mssql-%23121011.svg?style=flat&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a303ed58686bf249c2c684621f21a2f13b588d676bfd7f86b7d524060e572cee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f7261636c652d3030333534353f7374796c653d666c6174266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a303ed58686bf249c2c684621f21a2f13b588d676bfd7f86b7d524060e572cee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f7261636c652d3030333534353f7374796c653d666c6174266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465" alt="Oracle" data-canonical-src="https://img.shields.io/badge/oracle-003545?style=flat&amp;logo=oracle&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/47aae3031637c4af7437da0db3bed6bbf6f18db1612eb99ceb6682da32114b1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64796e616d6f64622d3030333534353f7374796c653d666c6174266c6f676f3d64796e616d6f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/47aae3031637c4af7437da0db3bed6bbf6f18db1612eb99ceb6682da32114b1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64796e616d6f64622d3030333534353f7374796c653d666c6174266c6f676f3d64796e616d6f6462266c6f676f436f6c6f723d7768697465" alt="DynamoDB" data-canonical-src="https://img.shields.io/badge/dynamodb-003545?style=flat&amp;logo=dynamodb&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto">DevOps tool and Hosting/SaaS:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/08bee4768ef72a48d6036c78c789362ff66aca54648750e62207bd14a8434b75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/08bee4768ef72a48d6036c78c789362ff66aca54648750e62207bd14a8434b75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" data-canonical-src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/64b5dd83482c2f4bab70119bd532275de1afd9fa0105004aba15ac48b3d61717/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666c6174266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/64b5dd83482c2f4bab70119bd532275de1afd9fa0105004aba15ac48b3d61717/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666c6174266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" alt="AWS" data-canonical-src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&amp;logo=amazon-aws&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto">Environment:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e6201b8e82c976d652fb60b763fb0b82fa3571abbf10991059b0bd3d88d38020/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/e6201b8e82c976d652fb60b763fb0b82fa3571abbf10991059b0bd3d88d38020/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="Windows 10" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=flat&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e6e23929b59f0d903f97a4697f304f549be540b61a8283bc3d69aecfe5fdd8d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/e6e23929b59f0d903f97a4697f304f549be540b61a8283bc3d69aecfe5fdd8d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2b32f656fe19157abbf2d8fbb210c0bc633052d42f48b41a7df4ab333b1a4bf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61634f532d2532333132313031313f7374796c653d666c6174266c6f676f3d4d61634f53266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/2b32f656fe19157abbf2d8fbb210c0bc633052d42f48b41a7df4ab333b1a4bf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61634f532d2532333132313031313f7374796c653d666c6174266c6f676f3d4d61634f53266c6f676f436f6c6f723d7768697465" alt="MacOS" data-canonical-src="https://img.shields.io/badge/MacOS-%23121011?style=flat&amp;logo=MacOS&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto">Version Control:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/410a76f2ef0d6f115b261dc337d16a4fde0460487fe8fd54203f6b5cf1d699bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/410a76f2ef0d6f115b261dc337d16a4fde0460487fe8fd54203f6b5cf1d699bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/github-%23121011.svg?style=flat&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1762ed4ce0161f115784744f90b805459d17f0068c6ae0a2e2051cc644dbb212/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1762ed4ce0161f115784744f90b805459d17f0068c6ae0a2e2051cc644dbb212/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</li>
-</ul>
-</article>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
+## 🚀 About Me
+
+**Passionate Learner | .NET/AI Engineer | Full-Stack Developer**
+
+I am a passionate software engineer specializing in **.NET Technologies** with a strong focus on backend development, database design, and modern web applications. As a curious, experienced, and practical learner, I thrive on solving challenging problems and learning cutting-edge technologies.
+
+> *"It is my passion to learn new technologies and solve challenging problems as a software engineer."*
+
+---
+
+## 🛠️ Technical Expertise
+
+### 💻 Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🏗️ Frameworks & Platforms
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🌐 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=javascript&logoColor=white)
+
+### 🗄️ Databases & Query Languages
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+**Query Languages:** T-SQL, PL-SQL
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+**AWS Services:** S3, DynamoDB, SQS, SNS, Lambda, EC2, CLI, SDK
+
+### 🔧 Tools & Technologies
+
+#### 📊 Data & Reporting
+- **jQuery Plugins:** DataTables, Summernote, Select2
+- **Reporting Tools:** Crystal Reports, RDLC
+
+#### 🏛️ Architecture & Design
+- **Patterns:** SOLID Principles, Gang of Four Design Patterns
+  - **Creational:** Factory, Abstract Factory, Builder, Prototype, Singleton
+  - **Structural:** Adapter, Bridge, Composite, Decorator, Facade, Proxy
+  - **Behavioral:** Chain of Responsibility, Command, Iterator, Mediator, Observer, Strategy, Template, Visitor, Memento, State
+- **Architecture:** 3-Tier, Modular, Onion, Clean Architecture
+
+#### 🔨 Development Tools
+- **Dependency Injection:** Autofac, Microsoft Unity, IServiceProvider
+- **Logging:** Serilog
+- **Testing:** NUnit, MockTest, Shouldly
+- **Background Processing:** Worker Service, Hangfire
+
+#### 🔒 Security
+- SQL Injection Prevention
+- CSRF Protection
+- Script Injection Prevention
+- DDoS Protection
+
+#### 📋 Methodology & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+- **Methodology:** Agile Software Development
+- **Version Control:** GitHub (TortoiseGit), BitBucket
+
+### 💻 Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🎯 Areas of Expertise
+
+- 🏗️ **Backend Development** - ASP.NET Core, Web APIs, Microservices
+- 🗄️ **Database Design** - Relational & NoSQL databases, Query optimization
+- 🌐 **Full-Stack Development** - End-to-end application development
+- ☁️ **Cloud Architecture** - AWS & Azure cloud solutions
+- 🔧 **DevOps & Automation** - Docker, CI/CD pipelines
+- 🏛️ **Software Architecture** - Clean Architecture, Design Patterns
+- 🔒 **Security** - Application security best practices
+- 🤖 **AI & Automation** - Intelligent system integration
+
+---
+
+## 🌟 Professional Focus
+
+- **Backend Excellence:** Expert in ASP.NET Core with deep understanding of enterprise-level application development
+- **Database Mastery:** Specialized in database design, optimization, and working with multiple database systems
+- **Cloud Native:** Experienced in building scalable cloud solutions using AWS and Azure
+- **AI Integration:** Leveraging artificial intelligence to create intelligent automation solutions
+- **System Design:** Architecting robust, scalable, and maintainable software systems
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborating on interesting projects, or sharing knowledge about .NET technologies and software engineering.
+
+- 💼 **Role:** CEO & Founder
+- 🎯 **Specialization:** .NET Engineer with expertise in AI, automation, and cloud technologies
+- 🌱 **Currently Learning:** Latest .NET features, AI/ML integration, and cloud-native architectures
+- 💬 **Ask me about:** .NET Core, Software Architecture, Database Design, Cloud Solutions
+- ⚡ **Fun fact:** I believe in continuous learning and staying updated with the latest technologies
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+*"Passionate about creating robust, scalable solutions that make a difference."*
