@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-**CEO & Founder | .NET Engineer | Full-Stack Developer**
+**Passionate Learner | .NET/AI Engineer | Full-Stack Developer**
 
 I am a passionate software engineer specializing in **.NET Technologies** with a strong focus on backend development, database design, and modern web applications. As a curious, experienced, and practical learner, I thrive on solving challenging problems and learning cutting-edge technologies.
 
